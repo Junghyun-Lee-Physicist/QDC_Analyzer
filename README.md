@@ -2,10 +2,15 @@
 This is the basic analyzer for KNU KAEN QCD System
 
 # For compilation
+
 $ mkdir build
+
 $ cd build
+
 $ ccmake .. # or do the cmake ..
+
 $ make -j4
+
 
 # Execution
 $ ./ParticleLab_Analyzer # in the build directory
